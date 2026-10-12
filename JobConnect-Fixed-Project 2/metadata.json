@@ -1,0 +1,6 @@
+{
+  "name": "JobConnect - Online Job Portal",
+  "description": "Full-stack recruitment and career platform connecting job seekers and recruiters with job search, applications tracking, recruiter management, and relational database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
